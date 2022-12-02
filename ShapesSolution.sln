@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesSolution", "ShapesSolution\ShapesSolution.csproj", "{AF9A66B7-83C5-480E-95FA-F678BC7A3D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6EE216B7-9806-45D9-B9B8-82DDC6F25CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesSolutionTests", "ShapesSolutionTests\ShapesSolutionTests.csproj", "{116F7138-16CF-4E27-BAD8-B3FDBA067CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9A66B7-83C5-480E-95FA-F678BC7A3D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9A66B7-83C5-480E-95FA-F678BC7A3D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9A66B7-83C5-480E-95FA-F678BC7A3D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9A66B7-83C5-480E-95FA-F678BC7A3D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116F7138-16CF-4E27-BAD8-B3FDBA067CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116F7138-16CF-4E27-BAD8-B3FDBA067CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116F7138-16CF-4E27-BAD8-B3FDBA067CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116F7138-16CF-4E27-BAD8-B3FDBA067CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{116F7138-16CF-4E27-BAD8-B3FDBA067CCB} = {6EE216B7-9806-45D9-B9B8-82DDC6F25CCD}
+	EndGlobalSection
+EndGlobal
